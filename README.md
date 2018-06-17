@@ -7,7 +7,7 @@ Fields:
  <li>id</li>
  <li>first_name</li>
  <li>last_name</li>
- <li>email<li>
+ <li>email</li>
  <li>department</li>
  <li>phone</li>
 </ul>
